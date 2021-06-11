@@ -1,0 +1,16 @@
+body {
+	background-color: maroon;
+}
+
+.clock {
+
+color: white;
+font-family: 'Monofett', cursive;
+  font-size: 175px;
+  height: 200;
+  width: 900px;
+  margin: 200px;
+  margin-left: 400px;
+  text-align: center;
+  border-radius: 20px;
+}
